@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "app": "ALMAS_GAME",
+  "latest_version_code": 2,
+  "latest_version": "1.1-auto-upd",
+  "download_url": null,
+  "notes": "ID 1 admin + міндетті Auto Update. Жаңа APK шықса, алдымен APK-ны GitHub Releases-ке жүктеп, download_url-ді толтырыңыз."
+}
